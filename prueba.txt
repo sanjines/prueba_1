@@ -1,1 +1,2 @@
-Realizando la primera prueba de git
+Realizando la primera prueba de git.
+Conceptos basicos de git en desarrollo web, aprendiendo git fundamentos.
